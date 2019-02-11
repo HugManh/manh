@@ -1,5 +1,4 @@
-
-### Tên ứng dụng: Trao đổi thông tin hàng hóa
+﻿### Tên ứng dụng: Trao đổi thông tin hàng hóa
 ### Nhóm: 14
 ### Thành viên:
     * Nguyễn Văn Tuấn
@@ -14,8 +13,6 @@
     * Mô tả các thông tin sản phẩm
     * Trao đổi thông tin sản phẩm giữa các người dùng
 	* Tìm kiếm thông tin sản phẩm
-#### Hình ảnh minh họa
-
 #### Tài liệu về các công nghệ có thể dùng đến:
     * HTML
     * CSS
